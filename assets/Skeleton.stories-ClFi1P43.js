@@ -1,0 +1,3 @@
+import{j as n,c as d}from"./utils-CxayYU3m.js";import"./index-CTjT7uj6.js";function a({className:t,...c}){return n.jsx("div",{className:d("animate-pulse rounded-md bg-muted",t),...c})}a.__docgenInfo={description:"",methods:[],displayName:"Skeleton"};const l={title:"Example/Skeleton",component:a,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{className:{control:{type:"text"}}},args:{className:"h-[125px] w-[250px] rounded-xl"}},e={render:t=>n.jsx(a,{...t})};var r,s,o;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  render: args => <Skeleton {...args} />
+}`,...(o=(s=e.parameters)==null?void 0:s.docs)==null?void 0:o.source}}};const u=["Default"];export{e as Default,u as __namedExportsOrder,l as default};
